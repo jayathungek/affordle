@@ -1,2 +1,3 @@
-words/words.txt
+words/words*.txt
 *.env
+.idea
